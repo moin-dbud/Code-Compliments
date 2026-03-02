@@ -178,7 +178,7 @@ No additional dependencies are required. This extension uses only the built-in V
 - The status bar button may not appear immediately after install on some systems — a VS Code restart fixes this
 - Notifications may not display if VS Code's notification system is muted via "Do Not Disturb" mode
 
-> Found a bug? [Open an issue](https://github.com/moinsheikh/code-compliments/issues) and I'll fix it ASAP!
+> Found a bug? [Open an issue](https://github.com/moin-dbud/Code-Compliments/issues) and I'll fix it ASAP!
 
 ---
 
