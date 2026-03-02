@@ -1,9 +1,10 @@
 {
   "name": "code-compliments",
   "displayName": " code-compliments",
-  "description": "Compliments you while you code!",
-  "version": "0.0.1",
+  "description": "Compliments you while you code! 🌟",
+  "version": "0.0.3",
   "publisher": "MoinSheikh",
+  "icon": "icon.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/moin-dbud/Code-Compliments"
